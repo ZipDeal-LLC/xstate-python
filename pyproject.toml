@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "xstate"
+name = "xstate-python"
 version = "0.0.1"
 description = "XState for Python"
 readme = "README.md"
